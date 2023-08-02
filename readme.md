@@ -11,3 +11,9 @@
 
 
 WebView2のダウンロード・インストールは、[microsoft公式ページ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)から。
+
+
+## 更新履歴
+
+* v0.1.0: 公開
+* v0.1.1: コンテキストメニューを非表示にした。
