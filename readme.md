@@ -1,16 +1,16 @@
 # ssrenamer
 
-スクリーンショットを自動でリネームするwindows向けソフトウェア。
+スクリーンショットを自動でリネームするWindows向けソフトウェア。
 
 リネーム先は撮影時に最前面に開いているアプリケーション名を使う。
 
-インストールしなくても使用可能（WebView2が必要）。
+インストールしなくても使用可能（WebView2が必要、デフォルトでインストール済みの可能性大）。
 
 
 ダウンロードは、[Releases](https://github.com/ikapper/ssrenamer/releases)ページから。
 
 
-WebView2のダウンロード・インストールは、[microsoft公式ページ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)から。
+最近のWindowsはデフォルトでインストール済みなのでほぼ不要だが、必要であれば、WebView2のダウンロード・インストールは、[microsoft公式ページ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)から。
 
 
 ## 更新履歴
