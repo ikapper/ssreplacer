@@ -4,7 +4,7 @@
 
 リネーム先は撮影時に最前面に開いているアプリケーション名を使う。
 
-インストールしなくても使用可能（WebView2が必要、デフォルトでインストール済みの可能性大）。
+インストールしなくても使用可能（WebView2が必要、デフォルトでインストール済みの可能性大）。移動先フォルダ名などを保存するコンフィグファイルは、`C:\Users\<USERNAME>\AppData\Roaming\com.ikappio.ssrenamer`に格納される。
 
 
 ダウンロードは、[Releases](https://github.com/ikapper/ssrenamer/releases)ページから。
